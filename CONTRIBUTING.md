@@ -57,7 +57,7 @@ Generally, you find an issue you'd like to work on and announce your intentions
 to start work in a comment on the issue. Then, do your work on a separate
 branch (a "feature branch") in your own fork of the main repository.  Once
 you're happy and you think the issue has been addressed, create a pull request
-into the main repository.
+into the main repository. aaa
 
 ### First-time Set-up
 
