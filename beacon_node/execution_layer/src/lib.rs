@@ -1110,7 +1110,8 @@ impl<T: EthSpec> ExecutionLayer<T> {
                     return Ok(ProvenancedPayload::Local(BlockProposalContentsType::Full(
                         local.try_into()?,
                     )));
-                }
+                } 
+                let a = "b";
 
                 let relay_value = *relay.data.message.value();
 
